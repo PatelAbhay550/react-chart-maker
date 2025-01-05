@@ -1,0 +1,6 @@
+{
+    "xAxis": ["January", "February", "March"],
+    "yAxis": [30, 45, 60],
+    "title": "Monthly Sales"
+  }
+  

@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "properties": {
+      "xAxis": { "type": "array", "items": { "type": "string" } },
+      "yAxis": { "type": "array", "items": { "type": "number" } },
+      "lineColor": { "type": "string" },
+      "lineWidth": { "type": "number" }
+    },
+    "required": ["xAxis", "yAxis"]
+  }
+  

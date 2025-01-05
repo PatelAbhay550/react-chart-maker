@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "properties": {
+      "xAxis": { "type": "array", "items": { "type": "string" } },
+      "yAxis": { "type": "array", "items": { "type": "number" } },
+      "title": { "type": "string" }
+    },
+    "required": ["xAxis", "yAxis"]
+  }
+  
